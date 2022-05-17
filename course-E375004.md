@@ -75,3 +75,21 @@
      - Application: [application](courses/E375004/webapp_webcli)
    - task: [here](tasks/webapp_webcli/README.md) 
    - responsible person: martin.vitousek@fs.cvut.cz
+
+## Bonus Lectures
+
+1. **Artificial Intelligence** - 
+
+   - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
+   - responsible person: adam.peichl@fs.cvut.cz
+
+2. **Optimisation - linear programming** - 
+
+   - Source codes: [start-here](courses/E375004/optimisation/cvxpy.md)
+   - responsible person: adam.peichl@fs.cvut.cz
+
+3. **Micropython - smart sensor** - 
+
+   - Source codes: [start-here](courses/E375004/micropython_smart_sensor/README.md)
+     - Resources: [micropython](courses/E375004/micropython_smart_sensor)
+   - responsible person: martin.vitousek@fs.cvut.cz
